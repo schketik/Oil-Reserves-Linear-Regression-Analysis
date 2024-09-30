@@ -1,10 +1,8 @@
-# Oil-Reserves-Linear-Regression-Analysis
- The goal is to build a machine learning model (Linear Regression) that will help identify the region where extraction will yield the highest profit. 
- Then, the potential profit and risks should be analyzed using the Bootstrap technique.
- The process includes: 
-- Data wrangling
-- Exploratory Data Analysis
-- Correlation analysis
+The objective is to develop a machine learning model (Linear Regression) to identify the region with the highest potential for profitable extraction. Subsequently, the model will be used to assess potential profit and associated risks through the Bootstrap technique. The process involves the following steps:
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Correlation analysis between key features
 - Statistical analysis
-- Model training
-- Revenue calculation using boostraping technique
+- Model training and evaluation
+- Profit estimation and risk analysis using the Bootstrap method
